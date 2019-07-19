@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_order_service_consumer/boot_order_service_consumer.iml" filepath="$PROJECT_DIR$/boot_order_service_consumer/boot_order_service_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user_service_provider/boot_user_service_provider.iml" filepath="$PROJECT_DIR$/../user_service_provider/boot_user_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_user_service_provider/boot_user_service_provider (1) (com.cjw.gmall).iml" filepath="$PROJECT_DIR$/boot_user_service_provider/boot_user_service_provider (1) (com.cjw.gmall).iml" />
       <module fileurl="file://$PROJECT_DIR$/../DubboBuild/gmall-interface.iml" filepath="$PROJECT_DIR$/../DubboBuild/gmall-interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../orderserviceconsumer/order-service-consumer.iml" filepath="$PROJECT_DIR$/../orderserviceconsumer/order-service-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../user_service_provider/user_service_provider.iml" filepath="$PROJECT_DIR$/../user_service_provider/user_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../order_service_consumer/order-service-consumer.iml" filepath="$PROJECT_DIR$/../order_service_consumer/order-service-consumer.iml" />
     </modules>
   </component>
 </project>
